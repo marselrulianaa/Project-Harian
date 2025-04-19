@@ -1,2 +1,2 @@
 # Project-Harian
-Buat Harian Gue!!!
+Buat Project Harian Pemrograman Visual
